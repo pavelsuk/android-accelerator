@@ -1,2 +1,2 @@
-# android-sensors
-Test app for android sensors
+# android-accelerator
+Test app for android accelerator
